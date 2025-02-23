@@ -114,7 +114,7 @@ body {
     border-radius: 16px;
     border:5px solid var(--cor-sombras);
     box-shadow: 0 0 80px var(--cor-sombras);
-    width: 55%;
+    width: 65%;
 }
 
 .apresentacao__links__link:hover {
